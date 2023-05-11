@@ -1,0 +1,27 @@
+.holder2{
+    clear:both;
+}
+
+.noved{
+    text-align: center;
+    font-style:italic;
+    font-size: 30px;
+    margin-top: 2em;
+    margin-bottom: -9.999em;
+}
+
+.caja{
+    padding: 15em;
+    margin-top: -11em;
+
+}
+
+.caja h1{
+    font-size: 30px;
+}
+.caja h3{
+    color: #e49439;
+    font-style: italic;
+    font-size: 15px;
+}
+

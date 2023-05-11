@@ -1,0 +1,20 @@
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.logo{
+  position:relative;
+}
+
+h2{
+  font-weight: 400;
+  color: #e49439;
+  margin: 0 0 1em;
+}
